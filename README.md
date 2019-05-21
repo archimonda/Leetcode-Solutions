@@ -7,7 +7,7 @@
 | [ZQMei](https://github.com/ZQMei) |
 | [wangleiTT](https://github.com/wangleiTT) |
 
-| 题号 | 链接 | 难度 | Swift | Python | Java | C/C++ | OC |
+| 题号 | 题目 | 难度 | Swift | Python | Java | C/C++ | OC |
 | --- | ---- | --- | ----- | ------ | ---- | ----- | -- |
 | 1 | [两数之和](https://leetcode-cn.com/problems/two-sum) | 简单 | [Swift](1-两数之和/Swift) |  |  |  |  |
 | 2 | [两数相加](https://leetcode-cn.com/problems/add-two-numbers) | 中等 | | | | | |
