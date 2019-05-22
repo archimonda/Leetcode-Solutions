@@ -10,7 +10,7 @@
 
 | 题号 | 题目 | 难度 | Swift | Python | Java | C/C++ | OC |
 | --- | ---- | --- | ----- | ------ | ---- | ----- | -- |
-| 1 | [两数之和](https://leetcode-cn.com/problems/two-sum) | 简单 | [Swift](1-两数之和/Swift) |  |  |  |  |
+| 1 | [两数之和](https://leetcode-cn.com/problems/two-sum) | 简单 | [Swift](0001-两数之和/Swift) |  |  |  |  |
 | 2 | [两数相加](https://leetcode-cn.com/problems/add-two-numbers) | 中等 | | | | | |
 | 3 | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | 中等 | | | | | |
 | 4 | [寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays) | 困难 | | | | | |
@@ -18,11 +18,11 @@
 | 6 | [Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion) | 中等 | | | | | |
 | 7 | [整数反转](https://leetcode-cn.com/problems/reverse-integer) | 简单 | | | | | |
 | 8 | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi) | 中等 | | | | | |
-| 9 | [回文数](https://leetcode-cn.com/problems/palindrome-number) | 简单 | [Swift](9-回文数/Swift) | | | | |
+| 9 | [回文数](https://leetcode-cn.com/problems/palindrome-number) | 简单 | [Swift](0009-回文数/Swift) | | | | |
 | 10 | [正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching) | 困难 | | | | | |
 | 11 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water) | 中等 | | | | | |
 | 12 | [整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman) | 中等 | | | | | |
-| 13 | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer) | 简单 | [Swift](13-罗马数字转整数/Swift)| | | | |
+| 13 | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer) | 简单 | [Swift](0013-罗马数字转整数/Swift)| | | | |
 | 14 | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix) | 简单 | | | | | |
 | 15 | [三数之和](https://leetcode-cn.com/problems/3sum) | 中等 | | | | | |
 | 16 | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest) | 中等 | | | | | |
