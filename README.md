@@ -18,7 +18,7 @@
 | 6 | [Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion) | 中等 | | | | | |
 | 7 | [整数反转](https://leetcode-cn.com/problems/reverse-integer) | 简单 | | | | | |
 | 8 | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi) | 中等 | | | | | |
-| 9 | [回文数](https://leetcode-cn.com/problems/palindrome-number) | 简单 | | | | | |
+| 9 | [回文数](https://leetcode-cn.com/problems/palindrome-number) | 简单 | [Swift](9-回文数/Swift) | | | | |
 | 10 | [正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching) | 困难 | | | | | |
 | 11 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water) | 中等 | | | | | |
 | 12 | [整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman) | 中等 | | | | | |
