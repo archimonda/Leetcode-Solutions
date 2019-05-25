@@ -34,8 +34,8 @@ func addTwoNumbers(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
     p = p!.next
     q = q!.next
   }
+  
   while p != nil {
-    print(p!.val)
     let val = p!.val + flag
     let newNode = ListNode(val % 10)
     flag = val / 10
