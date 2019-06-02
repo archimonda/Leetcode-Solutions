@@ -6,14 +6,15 @@ class LongestCommonPrefix {
     func longestCommonPrefix(_ strs: [String]) -> String {
         var longestPrefix = [Character](), index = 0
         
-        guard let firstStr = strs.first else {
+        guard let _ = strs.first else {
             return String(longestPrefix)
         }
         
-        let firstStrChars = Array(firstStr)
         let strsChars = strs.map { Array($0) }
         
-        while index < firstStr.count {
+        let firstStrChars = strsChars.first!
+        
+        while index < firstStrChars.count {
             
             longestPrefix.append(firstStrChars[index])
             
