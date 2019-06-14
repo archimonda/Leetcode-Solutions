@@ -5,7 +5,6 @@
 |  [hongqima](https://github.com/hotchner) |
 | [Wang-yuchao](https://github.com/Wang-yuchao) |
 | [ZQMei](https://github.com/ZQMei) |
-| [wangleiTT](https://github.com/wangleiTT) |
 | [新哥_会飞的猴子](https://github.com/CoderLiuJixin) |
 
 | 题号 | 题目 | 难度 | Swift | Python | Java | C/C++ | OC |
