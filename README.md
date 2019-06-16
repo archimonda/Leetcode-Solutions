@@ -3,7 +3,7 @@
 | 参与成员 |
 | ------ |
 |  [hongqima](https://github.com/hotchner) |
-| [Wang-yuchao](https://github.com/Wang-yuchao) |
+| [wangyuchaogeek](https://github.com/wangyuchaogeek) |
 | [ZQMei](https://github.com/ZQMei) |
 | [新哥_会飞的猴子](https://github.com/CoderLiuJixin) |
 
@@ -28,7 +28,7 @@
 | 17 | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) | 中等 | | | | | |
 | 18 | [四数之和](https://leetcode-cn.com/problems/4sum) | 中等 | | | | | |
 | 19 | [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list) | 中等 | | | | | |
-| 20 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses) | 简单 | | | | | |
+| 20 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses) | 简单 |[Swift](0020-有效的括号/Swift) | | | | |
 | 21 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists) | 简单 | | | | | |
 | 22 | [括号生成](https://leetcode-cn.com/problems/generate-parentheses) | 中等 | | | | | |
 | 23 | [合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists) | 困难 | | | | | |
